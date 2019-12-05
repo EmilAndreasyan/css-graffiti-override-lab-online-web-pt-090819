@@ -3,6 +3,7 @@
   background: url(../images/tag-1.png) no-repeat;
   z-index: 7;
   display: block;
+  minimum-bytes = 300;
 }
 
 #wall .tag-1 {
